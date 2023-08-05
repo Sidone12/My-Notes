@@ -5,6 +5,8 @@ const firebaseConfig = {
     FIREBASE_CONFIGURATION
 };
 
+also you can check working example on : https://mynotes-96f13.web.app/#/
+
 
 
 
